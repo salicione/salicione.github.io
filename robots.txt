@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://salicione.github.io/sitemap.html.gz
+Sitemap: https://salicione.github.io/app/sitemap.html.gz
+Sitemap: https://salicione.github.io/assets/sitemap.html.gz
+Sitemap: https://salicione.github.io/css/sitemap.html.gz
+Sitemap: https://salicione.github.io/includes/sitemap.html.gz
+Sitemap: https://salicione.github.io/item/sitemap.html.gz
+Sitemap: https://salicione.github.io/src/sitemap.html.gz
